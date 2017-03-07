@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DadosEntreActivities</string>
+    <string name="btn">Estados</string>
+
+    <string-array name="arrayEstados">
+        <item>Alagoas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Maranhão</item>
+        <item>Paraíba</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Sergipe</item>
+        <item>Rio Grande do Norte</item>
+    </string-array>
+</resources>
